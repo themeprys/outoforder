@@ -1,0 +1,244 @@
+
+* {
+    font-family: 'Epilogue', sans-serif;
+}
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+/* Hero Book */
+.imn_book_title {
+    font-size: 45px;
+  }
+  .imn_book_subtitle {
+    /* padding-bottom: 20px; */
+  }
+  h3.imn_book_subtitle {
+    font-size: 25px !important;
+  }
+  .imn_cta_book {
+    /* margin-top:50px; */
+    margin: 30px 0 !important;
+  }
+  .navbar {
+    height: 100px !important;
+  }
+  .navbar-item img {
+    max-height: 70px;
+  }
+  .imn_book_text p {
+      font-size: 16px;
+      line-height: 20px;
+      padding-bottom:20px;
+  }
+
+ /* Hero Iman */
+ .imn_title {
+    font-size: 80px;
+  }
+  .imn_subtitle {
+    max-width: 500px;
+    padding-bottom: 20px;
+  }
+  .imn_cta_home, .imn_cta_home_about {
+    margin-top:50px;
+  }
+  .imn_social a > i {
+    font-size: 25px !important;
+    padding: 5px;
+    color: black;
+  }
+  .imn_social a > svg {
+    width: 35px;
+  }
+  .hero {
+    background: url(~/static/img/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .imn_foto_hero_home img {
+  -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
+  box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);
+  }
+  .navbar-menu {
+    font-weight: bold;
+  }
+  a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
+    background-color: transparent !important;
+  } 
+
+  /* About Me */
+  .imn_section {
+    padding: 100px 0px;
+}
+.imn_about_content p {
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px;
+}
+
+/*  Contact */
+
+#contact.imn_section {
+    padding: 60px 0 !important;
+  }
+  #contact .subtitle {
+    font-size: 16px !important;
+  }
+
+  .imn_footer_logo {
+    width: 250px;
+    margin: 0 auto 0;
+}
+
+.imn_preorder_logo {
+    max-width: 800px;
+    margin: 50px auto 0; 
+}
+
+
+  /* Footer */
+  .footer {
+    background: url(~/static/img/red.webp);
+  padding: 50px !important;
+  font-weight: bold;
+}
+
+/* Blurb */
+.imn_back_cover img {
+    -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
+    box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);    
+}
+.imn_blurb_wrap {
+    padding: 20px 0;
+}
+.imn_blurb_wrap figure {
+    float: center;
+    width: 200px;
+    margin: 0 auto 0;
+}
+
+
+/* Pre Order */
+.imn_preorder  {
+    width: 700px;
+    margin: 0 auto 0 !important;
+}
+.imn_cta_book.preorder.buttons a {
+    margin: 0 auto 0;
+    width: 300px;
+}
+
+/* Book Credits */
+
+.imn_credits p {
+padding: 10px 0;
+}
+
+.imn_booktour {
+  text-align: center;
+}
+
+/* Bottom Nav */
+
+.imn_bottomnav {
+  max-height: 73px;
+  padding: 10px 0 10px 0;
+}
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+    .hero-body.imn_hero {
+        text-align: center;
+    }
+    #contact.imn_section {
+        max-width: 350px;
+    }
+    .imn_cta_book.buttons a {
+        width: 90% !important;
+        font-size: 22px !important;
+    }
+    .imn_foto_hero_home {
+        width: 200px;
+        margin: 0 auto 0;
+    } 
+    .imn_book_text p {
+        font-size: 16px;
+        text-align: left;
+    }
+    .imn_blurb_container {
+        padding-left: 30px ;
+        padding-right: 30px ;        
+    }
+    .imn_blurb_container h2 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .imn_preorder  {
+        width: 85%;
+        margin: 0 auto 0 !important;
+    }
+    .imn_subtitle {
+        width: 310px;
+        margin: 0 auto 0;
+    }
+    .imn_cta_home.buttons a {
+        width: 90%;
+    }
+    .imn_cta_home_about.buttons a {
+      width: 100%;
+      margin: 20px 0 0 0;
+    }
+    .imn_section_title {
+        padding: 0 30px;
+    }
+    .imn_section_title p {
+        font-size: 16px;
+    }
+    .imn_pic {
+        width: 220px;
+        margin: 0 auto 0;
+    }
+    .imn_about_container {
+        padding-left: 30px ;
+        padding-right: 30px ;        
+    }
+    .imn_about_pic {
+        width: 300px;
+        margin: 0 auto 0;
+    }
+    .navbar-burger {
+        width: 140px !important;
+    }
+    .navbar-burger a {
+        color: black;
+        font-size: 18px;
+    }
+    h2.title.imn_book_title {
+      font-size: 30px;
+    }
+    .imn_blurb_titel, .imn_blurb_wrap h3 {
+      text-align: center;
+    }
+
+    .imn_payment_wrap img {
+      width: 100% !important;
+  }
+
+    
+}
+
+/* Desktop */
+@media only screen and (min-width: 600px) {
+    .hero-body.imn_hero {
+        padding: 100px 0px !important;
+      }
+    .imn_hero .details {
+        padding-left: 60px;
+    }
+    .imn_payment_wrap {
+      width: 800px;
+      margin: 0 auto 0;
+  }
+}
