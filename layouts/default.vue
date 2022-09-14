@@ -2,6 +2,6 @@
   <div>
     <Nuxt />
     <Footer />
-    <BottomNav />    
+    <!-- <BottomNav />     -->
   </div>
 </template>
