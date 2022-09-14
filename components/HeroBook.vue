@@ -8,11 +8,11 @@
               The Tales of<br />the Urban Misfits
               <!-- <img src="~/static/img/outoforder_logojpg" alt="Iman Fattah" height="100px"> -->
             </nuxt-link>
-            <div class="mt-5 navbar-burger">
+            <!-- <div class="mt-5 navbar-burger">
               <nuxt-link to="/about">
                 My Profile <i class="fas fa-user"></i>
               </nuxt-link>
-            </div>
+            </div> -->
           </div>
           <div id="navbarMenuHeroB" class="navbar-menu">
             <div class="navbar-end">

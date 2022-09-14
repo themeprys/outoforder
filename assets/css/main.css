@@ -110,6 +110,11 @@
     -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
     box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);    
 }
+.imn_back_cover p {
+  font-size: 16px;
+  line-height: 25px;
+  padding-bottom: 10px;
+}
 .imn_blurb_wrap {
     padding: 20px 0;
 }
@@ -157,8 +162,12 @@ padding: 10px 0;
     }
     .imn_cta_book.buttons a {
         width: 90% !important;
-        font-size: 22px !important;
+        font-size: 16px !important;
     }
+    .imn_cta_book.preorder.buttons a {
+      width: 50% !important;
+
+  }
     .imn_foto_hero_home {
         width: 200px;
         margin: 0 auto 0;

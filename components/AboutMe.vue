@@ -11,9 +11,8 @@
                 <img src="~/static/img/meita_kasim.jpg" />
         </div>
         <div class="column imn_about_content">
-<p>Halo, nama saya Iman Fattah. Saya seorang musisi, teknolog audio, dan <em>machine learning engineer</em> asal jakarta, Indonesia yang saat ini berdomisili di Los Angeles, California.</p>
-<p>Saya telah mengerjakan berbagai proyek musik dan audio yang diantaranya adalah produksi musik, desain bunyi (<em>sound design</em>), musik untuk teater, film, pameran, serta musik untuk peragaan busana. Pengalaman saya dalam berkarya sebagai musisi, produser, dan melalui hobi <em>video game</em> membekali saya dengan kepekaan audio dan visual yang unik&mdash;yaitu memanfaatkan teknologi berkelindan dengan seni-budaya sebagai sarana dalam berkarya.</p>
-<p>Saat ini, saya bersyukur memiliki privilese untuk mengubah karir ke dunia teknologi dan berkontribusi untuk perusahaan teknologi terbesar di dunia yang berbasis di Silicon Valley. Semua berkat pengalaman dalam musik dan audio yang membawa saya ke posisi saat ini.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra odio et porttitor euismod. Donec non consectetur nibh. Cras accumsan nibh ut odio vehicula feugiat. Maecenas sagittis dapibus condimentum. Aliquam nec suscipit orci. Sed in eleifend augue, non efficitur arcu. Nulla pellentesque vel turpis eleifend sodales. Fusce et tempus risus, vitae molestie orci. Fusce tristique, odio nec sodales dictum, turpis eros sollicitudin risus, eu laoreet nisi ligula at metus. Vestibulum porta neque dui, vitae sagittis velit rhoncus.</p>
+<p>Morbi vel semper urna. Phasellus tincidunt metus in nisl condimentum, ut dapibus risus posuere. Sed id nisi fermentum, fringilla tortor vel, semper neque. Aliquam in metus in tortor aliquet facilisis. Maecenas et turpis ut sapien lacinia tincidunt. Nam sed faucibus erat, non dapibus ante. Cras quis ullamcorper tellus.</p>
         </div>        
     </div>
 
