@@ -2,8 +2,9 @@
   <div>
       <HeroBook />
       <Blurb />
-      <!-- <VideoBook />
-      <PreOrder /> -->
+<AboutMe />
+      <!-- <VideoBook /> -->
+      <PreOrder />
       <!-- <AboutMe />
       <Portfolio /> -->
       <!-- <Contact /> -->
@@ -14,7 +15,7 @@
 <script>
 export default {
   head: {
-    title: 'The Tales of Urban Misfits - a Fiction Novel by Meita Kasim',
+    title: 'The Tales of the Urban Misfits - a Fiction Novel by Meita Kasim',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

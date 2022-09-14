@@ -17,16 +17,16 @@
           <div id="navbarMenuHeroB" class="navbar-menu">
             <div class="navbar-end">
               <nuxt-link to="/" class="navbar-item is-active"> Home </nuxt-link>
-              <nuxt-link class="navbar-item" to="/credits">
-                About Book
-              </nuxt-link>
+              <a class="navbar-item" href="#synopsys">
+                Synopsys
+              </a>
               <!-- <nuxt-link class="navbar-item" to="/tour">
               Bedah Buku
             </nuxt-link> -->
-              <nuxt-link class="navbar-item" to="/about">
-                About Writer
-              </nuxt-link>
-              <nuxt-link class="navbar-item" to="/contact"> Contact </nuxt-link>
+              <a class="navbar-item" href="#aboutwriter">
+                About the Writer
+              </a>
+              <a class="navbar-item" href="#ordernow">Order Now</a>
 
               <!-- <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
               Imanfattah.rocks&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
@@ -37,12 +37,12 @@
             <div class="navbar-end">
               <span class="navbar-item">
                 <a
-                  href="https://xabi.us/?add-to-cart=4291"
+                  href="#"
                   class="button is-dark"
                   target="_blank"
                 >
-                  <span class="pl-2">Pesan Buku</span>&nbsp;&nbsp;
-                  <i class="fas fa-external-link-alt"></i>
+                  <span class="pl-2">Contact Us</span>&nbsp;&nbsp;
+                  <i class="fas fa-envelope"></i>
                 </a>
               </span>
             </div>
@@ -62,11 +62,14 @@
           <div class="column details">
             <h2 class="title imn_book_title">The Tales of the Urban Misfits</h2>
             <h3 class="subtitle imn_book_subtitle">
-              a fiction novel by Meita Kasim
+              Book 1: Out of Order
             </h3>
             <div class="imn_book_text">
-              <p>Book 1: Out of Order</p>
-              <p>First published in 2021</p>
+              <p>OUT OF ORDER, the first novel in the coming series The tales of the Urban misfits is a coming-of-age fiction inspired by a true story.</p>
+              <p>Written by <strong>Meita Kasim</strong><br>
+              Editing by <strong>Dr. Margie Ellery</strong><br>
+              Cover Design by <strong>Anggito Rahman</strong></p>
+              <p>Printed and bound by <strong>Arung Wacana</strong>, Yogyakarta.<br>First published in Indonesia 2022</p>
               <!-- <p>It follows the life of Sigi, a girl in her late teens living in Jakarta during the 1990s, in a nation with its Muslim majority and strong military presence</p>
               <p>While still a high school student, Sigi plays in an all-girl alternative band and she broadcast at a radio station, yet, as a young Muslim woman, her passions evoke judgement and harassment.</p>
               <p>Shadowed by her controlling mother, she yearns to be a free spirit amidst increasing controversy in the male dominated underground and in herself.</p>
@@ -74,7 +77,7 @@
             </div>
 
             <div class="imn_cta_book buttons">
-              <a class="button is-warning is-medium" href="#" target="_blank">
+              <a class="button is-dark is-medium" href="#" target="_blank">
                 Buy Printed Edition
               </a>
               <a class="button is-primary is-medium" href="#" target="_blank">

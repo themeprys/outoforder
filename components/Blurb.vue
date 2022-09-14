@@ -1,5 +1,5 @@
 <template>
-  <div class="container my-6 py-6 imn_blurb_container">
+  <div class="container my-6 py-6 imn_blurb_container" id="synopsys">
     <!-- <div class="columns">
       <div class="column is-size-1">
         <h2 class="has-text-weight-bold">Synopsys</h2>
@@ -7,8 +7,13 @@
     </div>
     <hr /> -->
     <div class="columns">
-      <div class="column is-5">
-        <h2 class="has-text-weight-bold">Synopsys</h2><hr>
+      <div class="column is-6">
+            <div class="columns">
+        <div class="column">
+            <h2 class="is-size-1 has-text-weight-bold ">Synopsys</h2>
+            <p class="is-size-6 subtitle pb-6">The Story</p>
+        </div>
+    </div>
         <p>
           It follows the life of Sigi, a girl in her late teens living in
           Jakarta during the 1990s, in a nation with its Muslim majority and
