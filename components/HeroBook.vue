@@ -18,7 +18,7 @@
             <div class="navbar-end">
               <nuxt-link to="/" class="navbar-item is-active"> Home </nuxt-link>
               <a class="navbar-item" href="#synopsys">
-                Synopsys
+                About The Book
               </a>
               <!-- <nuxt-link class="navbar-item" to="/tour">
               Bedah Buku
@@ -37,12 +37,12 @@
             <div class="navbar-end">
               <span class="navbar-item">
                 <a
-                  href="#"
+                  href="https://www.instagram.com/thetalesoftheurbanmisfits/"
                   class="button is-dark"
                   target="_blank"
                 >
-                  <span class="pl-2">Contact Us</span>&nbsp;&nbsp;
-                  <i class="fas fa-envelope"></i>
+                  <span class="pl-2">Follow Us</span>&nbsp;&nbsp;
+                  <i class="fab fa-instagram"></i>
                 </a>
               </span>
             </div>
@@ -67,7 +67,7 @@
             <div class="imn_book_text">
               <p>OUT OF ORDER, the first novel in the coming series The tales of the Urban misfits is a coming-of-age fiction inspired by a true story.</p>
               <p>Written by <strong>Meita Kasim</strong><br>
-              Editing by <strong>Dr. Margie Ellery</strong><br>
+              Editing by <strong>Dr Margie Ellery</strong><br>
               Cover Design by <strong>Anggito Rahman</strong></p>
               <p>Printed and bound by <strong>Arung Wacana</strong>, Yogyakarta.<br>First published in Indonesia 2022</p>
               <!-- <p>It follows the life of Sigi, a girl in her late teens living in Jakarta during the 1990s, in a nation with its Muslim majority and strong military presence</p>
@@ -77,12 +77,12 @@
             </div>
 
             <div class="imn_cta_book buttons">
-              <a class="button is-dark is-medium" href="#" target="_blank">
-                Buy Printed Edition
+              <a class="button is-dark is-large is-primary" href="#" target="_blank">
+                Buy Digital Version
               </a>
-              <a class="button is-primary is-medium" href="#" target="_blank">
-                Buy E-book on Amazon
-              </a>
+              <!-- <a class="button is-primary is-medium" href="#" target="_blank">
+                Coming Very Soon on Amazon
+              </a> -->
             </div>
 
           </div>

@@ -6,15 +6,15 @@
           Order Book Today
         </h2>
         <p class="has-text-centered">
-          Online payment using Gopay, QRis Bank Transfer etc
+          Online payment using Credit Card, Paypal, Gopay, QRis Bank Transfer etc
         </p>
-        <div class="imn_cta_book preorder buttons">
-          <a class="button is-dark is-medium" href="#" target="_blank">
-            Buy Printed Edition
+        <div class="mt-6 has-text-centered">
+          <a class="button is-primary is-large" href="#" target="_blank">
+            Buy Digital Version
           </a>
-          <a class="button is-primary is-medium" href="#" target="_blank">
+          <!-- <a class="button is-primary is-medium" href="#" target="_blank">
             Buy E-book on Amazon
-          </a>
+          </a> -->
 
           <!-- <a class="button is-primary is-large" href="https://xabi.us/?add-to-cart=4291" target="_blank">
                         Pesan IDR 85.000&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
