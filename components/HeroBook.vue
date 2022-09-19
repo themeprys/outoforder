@@ -79,22 +79,27 @@
               <p>Despite these obstacle, Sigi courageously follows her own path and defies all the constructs of her time to find her true and unique voice; a choice that is often painful, inspiring, and, ultimately, one full of hope.</p> -->
             </div>
 
-            <div class="">
-              <a
-                class="button is-dark is-large is-primary"
-                href="https://xabi.us/?add-to-cart=4375"
-                target="_blank"
-              >
-                Buy Digital Version USD 4,99
-              </a>
-              <!-- <a class="button is-primary is-medium" href="#" target="_blank">
+            <div class="columns">
+              <div class="column">
+                <a
+                  class="button is-dark is-medium is-primary"
+                  href="https://xabi.us/?add-to-cart=4375"
+                  target="_blank"
+                >
+                  Buy Digital Version USD 4,99
+                </a>
+                <!-- <a class="button is-primary is-medium" href="#" target="_blank">
                 Coming Very Soon on Amazon
               </a> -->
-              <div class="mt-5">
-              <p>Pay online with:</p>
-              <p class="mt-4">
-                <img src="~/static/img/payment/visa_mc_amex.webp" width="300px"/>
-              </p>
+                <div class="mt-5">
+                  <p>Pay online with:</p>
+                  <p class="mt-4">
+                    <img
+                      src="~/static/img/payment/visa_mc_amex.webp"
+                      width="300px"
+                    />
+                  </p>
+                </div>
               </div>
             </div>
           </div>

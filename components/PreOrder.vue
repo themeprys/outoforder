@@ -9,7 +9,7 @@
           Online payment using Credit Card, Paypal, Gopay, QRis Bank Transfer etc
         </p>
         <div class="mt-6 has-text-centered">
-          <a class="button is-primary is-large" href="https://xabi.us/?add-to-cart=4375" target="_blank">
+          <a class="button is-primary is-medium" href="https://xabi.us/?add-to-cart=4375" target="_blank">
             Buy Digital Version USD 4,99
           </a>
           <!-- <a class="button is-primary is-medium" href="#" target="_blank">
