@@ -17,15 +17,11 @@
           <div id="navbarMenuHeroB" class="navbar-menu">
             <div class="navbar-end">
               <nuxt-link to="/" class="navbar-item is-active"> Home </nuxt-link>
-              <a class="navbar-item" href="#synopsys">
-                About The Book
-              </a>
+              <a class="navbar-item" href="#synopsys"> About The Book </a>
               <!-- <nuxt-link class="navbar-item" to="/tour">
               Bedah Buku
             </nuxt-link> -->
-              <a class="navbar-item" href="#aboutwriter">
-                About the Writer
-              </a>
+              <a class="navbar-item" href="#aboutwriter"> About the Writer </a>
               <a class="navbar-item" href="#ordernow">Order Now</a>
 
               <!-- <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
@@ -61,30 +57,46 @@
           </div>
           <div class="column details">
             <h2 class="title imn_book_title">The Tales of the Urban Misfits</h2>
-            <h3 class="subtitle imn_book_subtitle">
-              Book 1: Out of Order
-            </h3>
+            <h3 class="subtitle imn_book_subtitle">Book 1: Out of Order</h3>
             <div class="imn_book_text">
-              <p>OUT OF ORDER, the first novel in the coming series The tales of the Urban misfits is a coming-of-age fiction inspired by a true story.</p>
-              <p>Written by <strong>Meita Kasim</strong><br>
-              Editing by <strong>Dr Margie Ellery</strong><br>
-              Cover Design by <strong>Anggito Rahman</strong></p>
-              <p>Printed and bound by <strong>Arung Wacana</strong>, Yogyakarta.<br>First published in Indonesia 2022</p>
+              <p>
+                OUT OF ORDER, the first novel in the coming series The tales of
+                the Urban misfits is a coming-of-age fiction inspired by a true
+                story.
+              </p>
+              <p>
+                Written by <strong>Meita Kasim</strong><br />
+                Editing by <strong>Dr Margie Ellery</strong><br />
+                Cover Design by <strong>Anggito Rahman</strong>
+              </p>
+              <p>
+                Printed and bound by <strong>Arung Wacana</strong>,
+                Yogyakarta.<br />First published in Indonesia 2022
+              </p>
               <!-- <p>It follows the life of Sigi, a girl in her late teens living in Jakarta during the 1990s, in a nation with its Muslim majority and strong military presence</p>
               <p>While still a high school student, Sigi plays in an all-girl alternative band and she broadcast at a radio station, yet, as a young Muslim woman, her passions evoke judgement and harassment.</p>
               <p>Shadowed by her controlling mother, she yearns to be a free spirit amidst increasing controversy in the male dominated underground and in herself.</p>
               <p>Despite these obstacle, Sigi courageously follows her own path and defies all the constructs of her time to find her true and unique voice; a choice that is often painful, inspiring, and, ultimately, one full of hope.</p> -->
             </div>
 
-            <div class="imn_cta_book buttons">
-              <a class="button is-dark is-large is-primary" href="#" target="_blank">
-                Buy Digital Version
+            <div class="">
+              <a
+                class="button is-dark is-large is-primary"
+                href="https://xabi.us/?add-to-cart=4375"
+                target="_blank"
+              >
+                Buy Digital Version USD 4,99
               </a>
               <!-- <a class="button is-primary is-medium" href="#" target="_blank">
                 Coming Very Soon on Amazon
               </a> -->
+              <div class="mt-5">
+              <p>Pay online with:</p>
+              <p class="mt-4">
+                <img src="~/static/img/payment/visa_mc_amex.webp" width="300px"/>
+              </p>
+              </div>
             </div>
-
           </div>
         </div>
       </div>
