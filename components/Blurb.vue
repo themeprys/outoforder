@@ -20,26 +20,25 @@
       <div class="column imn_back_cover">
         <h3 class="subtitle imn_book_subtitle">Book Synopsys</h3>
         <p>
-          It follows the life of Sigi, a girl in her late teens living in
-          Jakarta during the 1990s, in a nation with its Muslim majority and
-          strong military presence
+          <strong>OUT OF ORDER</strong>; the first novel in the coming
+          series,&nbsp;<em><strong>The Tales of the Urban Misfits</strong></em
+          >, is a coming-of-age fiction inspired by a true story.&nbsp;
         </p>
         <p>
-          While still a high school student, Sigi plays in an all-girl
-          alternative band and she broadcast at a radio station, yet, as a young
-          Muslim woman, her passions evoke judgement and harassment.
+          It follows the life of Sigi Putri Masina, a girl in her late teens
+          living in Jakarta during the 1990s, in a nation with its Muslim
+          majority and strong military presence. While still a high school
+          student, Sigi plays in an all-girl alternative band, and she
+          broadcasts at a radio station, yet, as a young Muslim woman, her
+          passions evoke judgments and harassment.&nbsp;
         </p>
         <p>
           Shadowed by her controlling mother, she yearns to be a free spirit
-          amidst increasing controversy in the male dominated underground and in
-          herself.
+          amidst increasing controversy in the male-dominated underground and
+          herself. Sigi courageously follows her path despite these obstacles, a
+          painful, inspiring choice and, ultimately, one full of hope.&nbsp;
         </p>
-        <p>
-          Despite these obstacle, Sigi courageously follows her own path and
-          defies all the constructs of her time to find her true and unique
-          voice; a choice that is often painful, inspiring, and, ultimately, one
-          full of hope.
-        </p>
+
         <!-- 
                 <img src="~/static/img/Back_Cover_Buku_Rupa_SuaraIman_Fattah.webp" /> -->
       </div>

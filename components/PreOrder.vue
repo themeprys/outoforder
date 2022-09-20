@@ -42,10 +42,10 @@
           </div>
         </div>
         <div class="columns imn_payment_wrap">
-          <div class="column">
+          <div class="column is-12 has-text-centered">
             <img src="~/static/img/payment/bni.webp" />
           </div>
-          <div class="column">
+          <!-- <div class="column">
             <img src="~/static/img/payment/bri.webp" />
           </div>
           <div class="column">
@@ -53,7 +53,7 @@
           </div>
           <div class="column">
             <img src="~/static/img/payment/Alfa.webp" />
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
