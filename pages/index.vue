@@ -22,7 +22,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'The Tales of Urban Misfits - a Fiction Novel by Meita Kasim'
+        content: 'OUT OF ORDER, the first novel in the coming series The tales of the Urban misfits is a coming-of-age fiction inspired by a true story'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
