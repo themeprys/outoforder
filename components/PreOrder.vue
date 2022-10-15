@@ -6,11 +6,11 @@
           Order Book Today
         </h2>
         <p class="has-text-centered">
-          Online payment using Credit Card, Paypal, Gopay, QRis Bank Transfer etc
+          Available on Kindle e-book and Paperback version
         </p>
         <div class="mt-6 has-text-centered">
-          <a class="button is-primary is-medium" href="https://xabi.us/?add-to-cart=4375" target="_blank">
-            Buy Digital Version USD 4,99
+          <a class="button is-primary is-medium" href="https://www.amazon.com/gp/product/B0BHWZPLB4" target="_blank">
+            Buy on Amazon
           </a>
           <!-- <a class="button is-primary is-medium" href="#" target="_blank">
             Buy E-book on Amazon
@@ -22,7 +22,7 @@
         </div>
         <!-- <p class="has-text-centered">Harga belum termasuk ongkos kirim</p> -->
 
-        <div class="columns mt-6 imn_payment_wrap">
+        <!-- <div class="columns mt-6 imn_payment_wrap">
           <div class="column">
             <img src="~/static/img/payment/visa_mc_amex.webp" />
           </div>
@@ -40,11 +40,11 @@
           <div class="column">
             <img src="~/static/img/payment/Mandiri.webp" />
           </div>
-        </div>
+        </div> -->
         <div class="columns imn_payment_wrap">
-          <div class="column is-12 has-text-centered">
+          <!-- <div class="column is-12 has-text-centered">
             <img src="~/static/img/payment/bni.webp" />
-          </div>
+          </div> -->
           <!-- <div class="column">
             <img src="~/static/img/payment/bri.webp" />
           </div>

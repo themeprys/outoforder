@@ -83,15 +83,15 @@
               <div class="column">
                 <a
                   class="button is-dark is-medium is-primary"
-                  href="https://xabi.us/?add-to-cart=4375"
+                  href="https://www.amazon.com/gp/product/B0BHWZPLB4/"
                   target="_blank"
                 >
-                  Buy Digital Version USD 4,99
+                  Buy On Amazon
                 </a>
                 <!-- <a class="button is-primary is-medium" href="#" target="_blank">
                 Coming Very Soon on Amazon
               </a> -->
-                <div class="mt-5">
+                <!-- <div class="mt-5">
                   <p>Pay online with:</p>
                   <p class="mt-4">
                     <img
@@ -99,7 +99,7 @@
                       width="300px"
                     />
                   </p>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
